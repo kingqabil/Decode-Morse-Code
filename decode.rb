@@ -16,5 +16,3 @@ def decode_word(str)
   word = morse.map { |c| decode_char(c) }
   word.join
 end
-
-
