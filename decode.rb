@@ -26,4 +26,3 @@ decode_word('.-')
 decode_word('-- -.--')
 decode_sentence('-- -.--   -. .- -- .')
 decode_sentence('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-. / .-. ..- -... .. . ...')
-
