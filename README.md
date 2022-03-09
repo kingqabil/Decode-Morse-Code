@@ -25,6 +25,10 @@ ruby decode.rb
 
 👤 **Nana Rodina**
 
+- GitHub: [@rdnrn](https://github.com/rdnrn)
+- Twitter: [@rdnrn_nana](https://twitter.com/rdnrn_nana)
+- LinkedIn: [Nana Rodina](https://www.linkedin.com/in/rdnrn/)
+
 ## :handshake: Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
